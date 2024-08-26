@@ -7,5 +7,3 @@ There is no UFS source code in this repository. See individual repositories for 
 - [land-DA_workflow](https://github.com/ufs-community/land-DA_workflow)
 - [uwtools](https://github.com/ufs-community/uwtools)
 
-The GitHub Issues portion of this repository may host copies of issues from the [UPP](https://github.com/NOAA-EMC/UPP) 
-repository in order to track their resolution alongside ufs-community repository Issues.
